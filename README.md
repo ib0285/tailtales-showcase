@@ -2,9 +2,7 @@
 
 **Upload a photo of your pet and turn it into an AI-generated adventure scene.**
 
-> **Status:** Fully built web application, not publicly launched. Source code is private; available on request.
-
-**Timeline:** Project, 2025
+A web application I designed and built for pet owners who want a themed scene from a clear photo of their dog or cat.
 
 ## Before / After
 
